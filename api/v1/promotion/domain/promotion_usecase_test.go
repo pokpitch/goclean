@@ -5,9 +5,9 @@ import (
 	"log"
 	"testing"
 
-	"github.com/prongbang/goclean/api/v1/promotion/di"
-	"github.com/prongbang/goclean/api/v1/promotion/domain"
-	"github.com/prongbang/goclean/api/v1/promotion/model"
+	"github.com/pokpitch/goclean/api/v1/promotion/di"
+	"github.com/pokpitch/goclean/api/v1/promotion/domain"
+	"github.com/pokpitch/goclean/api/v1/promotion/model"
 )
 
 var usecase domain.PromotionUseCase

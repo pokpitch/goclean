@@ -7,7 +7,7 @@ import (
 
 // GetDatabaseMock is the Mock database in memory
 func GetDatabaseMock() DatabaseHelper {
-	return DatabaseHelp {
+	return DatabaseHelper {
 		Store: make(map[int] model.Promotion),
 	}
 }

@@ -1,7 +1,6 @@
 package datasource
 
 import (
-	"fmt"
 	"github.com/pokpitch/goclean/api/v1/promotion/model"
 )
 
